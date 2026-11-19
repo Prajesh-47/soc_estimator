@@ -1,1 +1,4 @@
 *.o
+/soc_estimator
+/tests/test_battery
+/output/
